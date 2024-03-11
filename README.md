@@ -1,7 +1,7 @@
 # DayZServer2024 List Of Thigs to be done
 Make mutants spawn - DONE
 
-Install & Set up spawn points
+Install & Set up spawn points - Half done need to decided where we want spawns
 
 Make sure all loot types are spawning all over
 
